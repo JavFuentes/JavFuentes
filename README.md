@@ -55,7 +55,7 @@ Intento mantenerme a la vanguardia del conocimiento informático para poder crea
 
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:javier.antonio8128@gmail.com)](mailto:javier.antonio8128@gmail.com)
-![Twitter Badge](https://img.shields.io/twitter/follow/Outis_Project?label=Outis_Project&style=social)(https://twitter.com/Outis_Project)
-![GitHub_Badge](https://img.shields.io/github/followers/JavFuentes?label=JavFuentes&style=social)(https://github.com/JavFuentes)
+[![Twitter Badge](https://img.shields.io/twitter/follow/Outis_Project?label=Outis_Project&style=social)](https://twitter.com/Outis_Project)
+[![GitHub_Badge](https://img.shields.io/github/followers/JavFuentes?label=JavFuentes&style=social)](https://github.com/JavFuentes)
 
 
