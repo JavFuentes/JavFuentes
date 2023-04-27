@@ -1,4 +1,4 @@
-![Game of Life GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmY2YWYyOTNhNTY3YjQzZDZmMTEwZmI1OGNlZDhjZTE1YzYzNWFmZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/NSJOVcuMZ5hkS1oMTc/giphy.gif)
+![Game of Life GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDUwMjI5N2U4NmM2OTc2MmRmN2EzZGQ2ZWE5NjQ2MGQ1ZTkzMDFjZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/62WEdEZq4FYJ9cIf7X/giphy.gif)
 
 ## ¡Hola Mundo! 🌎
 ¡Hola! Mi nombre es **Javier Fuentes**. Soy un desarrollador de software chileno, tengo 32 años, y mi pasión son las ciencias y la tecnología, actualmente estoy cursando un Bootcamp de Android en la Universidad Andres Bello a través de Talento Digital y un curso de Amazon Web Services en la AWS Academy de Inacap, además de diversos cursos en Platzi. <br><br>
