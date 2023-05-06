@@ -37,7 +37,7 @@ Intento mantenerme a la vanguardia del conocimiento informático para poder crea
 - Contribuir en proyectos Open Source
 - Crear al menos 5 proyectos significativos
 
-## Herramientas y Lenguajes de programación
+## Herramientas y Lenguajes de programación:
 <p align="center"> 
   <a href="https://www.android.com" target="_blank"> <img src="https://user-images.githubusercontent.com/122236197/234497893-4893b87a-295f-41b5-875c-4392376302e9.png" alt="android" width="40" height="40"/> </a>
   <a href="https://android-developers.googleblog.com/2020/08/announcing-jetpack-compose-alpha.html" target="_blank"> <img src="https://i.ibb.co/T2vVbhB/jetpack-compose-icon-RGB.png" alt="compose" width="45" height="45"/> </a>  
