@@ -63,5 +63,5 @@ Intento mantenerme a la vanguardia del conocimiento informático para poder crea
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=JavFuentes&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=JavFuentes)
 
