@@ -61,4 +61,7 @@ Intento mantenerme a la vanguardia del conocimiento informático para poder crea
 [![Twitter Badge](https://img.shields.io/twitter/follow/Outis_Project?label=Outis_Project&style=social)](https://twitter.com/Outis_Project)
 [![GitHub_Badge](https://img.shields.io/github/followers/JavFuentes?label=JavFuentes&style=social)](https://github.com/JavFuentes)
 
+---
+
+[![](https://visitcount.itsvg.in/api?id=JavFuentes&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
