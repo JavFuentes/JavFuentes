@@ -10,7 +10,7 @@ Intento mantenerme a la vanguardia del conocimiento informático para poder crea
   <tr>
     <th>Mi página web de portafolio</th>
     <th>Pianeti</th>
-    <th>Fresh Harvest</th>
+    <th>Paws on th Pavement</th>
   </tr>
   <tr>
     <td>
@@ -24,8 +24,8 @@ Intento mantenerme a la vanguardia del conocimiento informático para poder crea
 		</a>
 	</td>
     <td>
-		<a href="https://github.com/JavFuentes/Fresh-Harvest">
-			<img src="https://user-images.githubusercontent.com/122236197/234668071-0c2a2b3c-c5ac-4cd4-9414-04cfe0087591.png" />
+		<a href="https://github.com/JavFuentes/Paws-on-the-Pavement">
+			<img src="https://user-images.githubusercontent.com/122236197/236948795-73188b4b-aafc-4142-9d15-aec0f1948d1f.png" />
 		</a>
 	</td>
   </tr>
