@@ -26,7 +26,7 @@ Intento mantenerme a la vanguardia del conocimiento informático para poder crea
 <table style="width:100%; table-layout:fixed">
   <tr>
     <th>Mi página web de portafolio</th>
-    <th>Pianeti</th>
+    <th>Pianeti (Alpha version)</th>
     <th>Paws on th Pavement</th>
   </tr>
   <tr>
