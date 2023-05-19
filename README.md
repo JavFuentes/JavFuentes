@@ -17,9 +17,9 @@ Intento mantenerme a la vanguardia del conocimiento informático para poder crea
   <a href="https://aws.amazon.com" target="_blank"> <img src="https://user-images.githubusercontent.com/122236197/234502421-40c0d9a1-c91e-44a8-92cc-7d573d7b8492.png" alt="aws" width="40" height="40"/> </a>
   <a href="https://git-scm.com" target="_blank"> <img src="https://user-images.githubusercontent.com/122236197/234499665-57fa0e14-9e14-48bd-a009-5a259966fde3.png" alt="git" width="40" height="40"/> </a>
   <a href="https://www.mysql.com" target="_blank"> <img src="https://user-images.githubusercontent.com/122236197/234503669-4c863bee-af9d-466b-a893-764cb0dd1f22.png" alt="mysql" width="40" height="40"/> </a>  
+  <a href="https://www.blender.org" target="_blank"> <img src="https://github.com/JavFuentes/JavFuentes/assets/122236197/811a7652-a3d6-46b5-b4b9-24d17cb96737" alt="blender" width="40" height="40"/> </a> 
 	
 </p>
-
 
 ## Estoy trabajando actualmente en:
 
