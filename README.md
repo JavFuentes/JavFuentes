@@ -32,7 +32,7 @@ Intento mantenerme a la vanguardia del conocimiento informático para crear solu
   <tr>
     <td>
 		<a href="#">
-			<img src="https://i.ibb.co/ydB95CC/stellar-view-logo-500px500.png" alt="stellar-view-logo-500px500" />		
+			<img src="https://i.ibb.co/mtchGSZ/stellar-view-logo-1400-1200.png" />		
 		</a>
 	</td>
     <td>
