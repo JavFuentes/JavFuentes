@@ -25,14 +25,14 @@ Intento mantenerme a la vanguardia del conocimiento informático para crear solu
 
 <table style="width:100%; table-layout:fixed">
   <tr>
-    <th>Mi página web de portafolio</th>
+    <th>Stellar View</th>
     <th>Pianeti (Versión Alfa)</th>
     <th>Paws on th Pavement</th>
   </tr>
   <tr>
     <td>
 		<a href="#">
-			<img src="https://user-images.githubusercontent.com/122236197/234668065-f9479d45-7048-4a0e-ab2a-cd76585f5a42.png" />
+			<img src="https://i.ibb.co/ydB95CC/stellar-view-logo-500px500.png" alt="stellar-view-logo-500px500" />		
 		</a>
 	</td>
     <td>
@@ -66,4 +66,5 @@ Intento mantenerme a la vanguardia del conocimiento informático para crear solu
 ---
 
 ![](https://komarev.com/ghpvc/?username=JavFuentes)
+
 
