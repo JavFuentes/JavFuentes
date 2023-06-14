@@ -58,10 +58,10 @@ Intento mantenerme a la vanguardia del conocimiento informático para crear solu
 
 ## ¡Contáctame y Sigámonos!
 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javierfuentesespinosa/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:javier.antonio8128@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Outis_Project)
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:javier.antonio8128@gmail.com)](mailto:javier.antonio8128@gmail.com)
-[![Twitter Badge](https://img.shields.io/twitter/follow/Outis_Project?label=Outis_Project&style=social)](https://twitter.com/Outis_Project)
-[![GitHub_Badge](https://img.shields.io/github/followers/JavFuentes?label=JavFuentes&style=social)](https://github.com/JavFuentes)
 
 ---
 
