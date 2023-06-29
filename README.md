@@ -23,7 +23,7 @@ Intento mantenerme a la vanguardia del conocimiento informático para crear solu
 
 ## Estoy trabajando actualmente en:
 
-<table style="width:100%; table-layout:fixed">
+<table style="width:100; table-layout:fixed">
   <tr>
     <th>Stellar View</th>
     <th>Pianeti (Versión Alfa)</th>
@@ -32,7 +32,7 @@ Intento mantenerme a la vanguardia del conocimiento informático para crear solu
   <tr>
     <td>
 		<a href="#">
-			<img src="https://i.ibb.co/mtchGSZ/stellar-view-logo-1400-1200.png" />		
+			<img src="https://i.ibb.co/qCvtBJv/stellarview-github.png" />		
 		</a>
 	</td>
     <td>
