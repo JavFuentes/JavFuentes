@@ -2,7 +2,7 @@
 
 ## ¡Hola Mundo! 🌎
 ¡Hola! Mi nombre es **Javier Fuentes**. Soy un desarrollador de software chileno, tengo 32 años, y mi pasión son las ciencias y la tecnología, acabo de finalizar un Bootcamp de Android en la Universidad Andres Bello a través de Talento Digital. Actualmente me encuentro realizando un curso de UX impartido por Google. <br><br>
-Intento mantenerme a la vanguardia del conocimiento informático para crear soluciones cada vez más sofisticadas y en plazos que hace poco tiempo hubiesen sido impensables, gracias a la asistencia y correcto uso de los nuevos modelos de inteligencia artificial.
+
 
 ## Herramientas y Lenguajes de programación:
 <p align="center"> 
