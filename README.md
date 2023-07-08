@@ -32,7 +32,7 @@ Actualmente me encuentro realizando un curso de UX impartido por Google.<br>
   </tr>
   <tr>
     <td>
-		<a href="#">
+		<a href="https://github.com/JavFuentes/Stellar-View">
 			<img src="https://i.ibb.co/qCvtBJv/stellarview-github.png" />		
 		</a>
 	</td>
