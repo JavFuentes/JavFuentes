@@ -53,7 +53,7 @@ Actualmente trabajo en varios proyectos y me encuentro realizando un curso de UX
  
 - Unirme a proyectos grupales donde podamos trabajar colaborativamente
 - Contribuir en proyectos Open Source
-- Crear al menos 5 proyectos significativos
+- Trabajar en al menos 5 proyectos significativos
 
 
 
