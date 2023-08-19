@@ -32,7 +32,7 @@ Actualmente trabajo en varios proyectos y me encuentro realizando un curso de UX
   </tr>
   <tr>
     <td>
-		<a href="https://github.com/JavFuentes/Stellar-View">
+		<a href="https://play.google.com/store/apps/details?id=com.astronomy.stellar_view">
 			<img src="https://i.ibb.co/fSwfnSF/github-sv.png" />		
 		</a>
 	</td>
