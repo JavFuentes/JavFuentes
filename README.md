@@ -43,7 +43,7 @@ Actualmente trabajo en varios proyectos y me encuentro realizando un curso de UX
 	</td>
     <td>
 		<a href="https://javierfuentes.dev">
-			<img src="https://i.ibb.co/RN7BzBK/webpersonal.png" alt="webpersonal" />
+			<img src="https://i.ibb.co/WGJvGp7/javierfuentesdev.png" alt="javierfuentesdev" />
 		</a>
 	</td>
   </tr>
