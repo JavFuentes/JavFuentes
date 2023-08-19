@@ -33,7 +33,7 @@ Actualmente trabajo en varios proyectos y me encuentro realizando un curso de UX
   <tr>
     <td>
 		<a href="https://github.com/JavFuentes/Stellar-View">
-			<img src="https://i.ibb.co/qCvtBJv/stellarview-github.png" />		
+			<img src="https://i.ibb.co/fSwfnSF/github-sv.png" />		
 		</a>
 	</td>
     <td>
@@ -43,7 +43,7 @@ Actualmente trabajo en varios proyectos y me encuentro realizando un curso de UX
 	</td>
     <td>
 		<a href="https://github.com/JavFuentes/Paws-on-the-Pavement">
-			<img src="https://user-images.githubusercontent.com/122236197/236948795-73188b4b-aafc-4142-9d15-aec0f1948d1f.png" />
+			<img src="https://i.ibb.co/fvDJqpz/236948795-73188b4b-aafc-4142-9d15-aec0f1948d1f.png" />
 		</a>
 	</td>
   </tr>
