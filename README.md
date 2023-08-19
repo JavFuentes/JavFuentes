@@ -22,7 +22,7 @@ Actualmente trabajo en varios proyectos y me encuentro realizando un curso de UX
 	
 </p>
 
-## Estoy trabajando actualmente en:
+## Publicaciones 2023
 
 <table style="width:100; table-layout:fixed">
   <tr>
