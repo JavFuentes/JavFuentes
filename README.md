@@ -28,7 +28,7 @@ Actualmente trabajo en varios proyectos y me encuentro realizando un curso de UX
   <tr>
     <th>Stellar View</th>
     <th>Pianeti (Versión Alfa)</th>
-    <th>Paws on th Pavement</th>
+    <th>Página Web Personal</th>
   </tr>
   <tr>
     <td>
@@ -42,8 +42,8 @@ Actualmente trabajo en varios proyectos y me encuentro realizando un curso de UX
 		</a>
 	</td>
     <td>
-		<a href="https://github.com/JavFuentes/Paws-on-the-Pavement">
-			<img src="https://i.ibb.co/fvDJqpz/236948795-73188b4b-aafc-4142-9d15-aec0f1948d1f.png" />
+		<a href="https://javierfuentes.dev">
+			<img src="https://i.ibb.co/RN7BzBK/webpersonal.png" alt="webpersonal" />
 		</a>
 	</td>
   </tr>
