@@ -51,9 +51,9 @@ Actualmente trabajo en varios proyectos y me encuentro realizando un curso de UX
 
 ## Metas para este 2023:
  
-- Unirme a proyectos grupales donde podamos trabajar colaborativamente
-- Contribuir en proyectos Open Source
-- Trabajar en al menos 5 proyectos significativos
+- Unirme a proyectos grupales donde podamos trabajar colaborativamente ✔️
+- Contribuir en proyectos Open Source ✔️
+- Trabajar en al menos 5 proyectos significativos ✔️
 
 
 
