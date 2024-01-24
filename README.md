@@ -53,9 +53,9 @@ Mi objetivo es crear aplicaciones que no solo sean funcionales y atractivas, sin
 
 ## Metas para este 2024:
  
-- Publicar nuevas apps Android en la Play Store, esta vez con UI creada 100% con Jetpack Compose
-- Publicar mi primera app para iOS en la Store de Apple
-- Publicar la versión alfa del videojuego en el que estoy trabajando (Idealmente en ambas plataformas)
+- Publicar nuevas apps Android en la Play Store, esta vez con UI creada 100% con Jetpack Compose.
+- Publicar mi primera app para iOS en la tienda de Apple.
+- Publicar la versión alfa del videojuego en el que estoy trabajando. (Idealmente en ambas plataformas)
 
 
 
