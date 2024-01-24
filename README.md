@@ -1,9 +1,11 @@
 [![Game of Life GIF](https://media.giphy.com/media/NSJOVcuMZ5hkS1oMTc/giphy.gif)](https://github.com/JavFuentes/Juego-de-la-vida-de-Conway)
 
 ## ¡Hola Mundo! 🌎
-¡Hola! Mi nombre es **Javier Fuentes**. Soy un desarrollador de software chileno, tengo 32 años, y mi pasión son las ciencias y la tecnología.<br>
-Actualmente trabajo en varios proyectos y me encuentro realizando un curso de UX impartido por Google a través de Talento Digital.<br>
+¡Hola! Mi nombre es **Javier Fuentes**. Soy un desarrollador de software chileno, tengo 33 años, y mi mayor pasión son las ciencias y la tecnología.<br>
 
+Como Desarrollador Android, cuento con experiencia en la creación de aplicaciones móviles robustas y eficientes. <br>
+Este año, me he propuesto desarrollar aplicaciones para iOS, buscando expandir mi horizonte tecnológico y abrazar una visión más integral del desarrollo de software móvil. <br>
+Mi objetivo es crear aplicaciones que no solo sean funcionales y atractivas, sino que también proporcionen una experiencia de usuario fluida e intuitiva, para lo cual, también estoy realizando un curso de UX impartido por Google a través de Talento Digital.<br>
 
 ## Herramientas y Lenguajes de programación:
 <p align="center"> 
@@ -49,11 +51,11 @@ Actualmente trabajo en varios proyectos y me encuentro realizando un curso de UX
   </tr>
 </table>
 
-## Metas para este 2023:
+## Metas para este 2024:
  
-- Unirme a proyectos grupales donde podamos trabajar colaborativamente ✔️
-- Contribuir en proyectos Open Source ✔️
-- Trabajar en al menos 5 proyectos significativos ✔️
+- Publicar nuevas apps Android en la Play Store, esta vez con UI creada 100% con Jetpack Compose
+- Publicar mi primera app para iOS en la Store de Apple
+- Publicar la versión alfa del videojuego en el que estoy trabajando (Idealmente en ambas plataformas)
 
 
 
