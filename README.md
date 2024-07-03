@@ -5,7 +5,7 @@ Mi nombre es **Javier Fuentes**. Soy un desarrollador de software chileno, tengo
 
 Como **Desarrollador Android**, cuento con experiencia en la creación de aplicaciones móviles robustas y eficientes. <br>
 Este año, me he propuesto desarrollar aplicaciones para iOS, buscando expandir mi horizonte tecnológico y abrazar una visión más integral del desarrollo móvil nativo. <br><br>
-Mi objetivo es crear aplicaciones que no solo sean funcionales y atractivas, sino que también proporcionen una experiencia de usuario fluida e intuitiva, para lo cual, actualmente realizo un curso de UX impartido por Google a través de Talento Digital.<br>
+Mi trabajo es crear aplicaciones que no solo sean funcionales y atractivas, sino que también proporcionen una experiencia de usuario fluida e intuitiva.<br>
 
 ## Herramientas y Lenguajes de programación:
 <p align="center"> 
