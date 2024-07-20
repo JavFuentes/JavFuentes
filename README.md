@@ -1,11 +1,11 @@
 [![Game of Life GIF](https://media.giphy.com/media/NSJOVcuMZ5hkS1oMTc/giphy.gif)](https://github.com/JavFuentes/Juego-de-la-vida-de-Conway)
 
-## ¡Hola Mundo! 🌎
-Mi nombre es **Javier Fuentes**. Soy un desarrollador de software chileno, tengo 33 años, y mi pasión son las ciencias y la tecnología.<br>
+## ¡Hola, Mundo! 🌎
+Hi, I am Javier Fuentes, a 33-year-old software developer from Chile, passionate about science, technology, and above all, coding. With a wide range of knowledge in tools and technologies, I specialize in solving complex problems and developing innovative solutions.
 
-Como **Desarrollador Android**, cuento con experiencia en la creación de aplicaciones móviles robustas y eficientes. <br>
-Este año, me he propuesto desarrollar aplicaciones para iOS, buscando expandir mi horizonte tecnológico y abrazar una visión más integral del desarrollo móvil nativo. <br><br>
-Mi trabajo es crear aplicaciones que no solo sean funcionales y atractivas, sino que también proporcionen una experiencia de usuario fluida e intuitiva.<br>
+As an Android developer, I have experience in creating robust and efficient mobile applications. Additionally, I enjoy building systems from scratch, both in game development and in creating dApps in the exciting world of web3.
+
+My goal is to create applications that are not only functional and attractive but also provide a smooth and intuitive user experience. I am committed to quality and strive for excellence in every detail of my projects.
 
 ## Herramientas y Lenguajes de programación:
 <p align="center"> 
