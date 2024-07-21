@@ -1,6 +1,6 @@
 [![Game of Life GIF](https://media.giphy.com/media/NSJOVcuMZ5hkS1oMTc/giphy.gif)](https://github.com/JavFuentes/Juego-de-la-vida-de-Conway)
 
-## ¡Hola, Mundo! 🌎
+## ¡Hello, world! 🌎
 Hi, I am Javier Fuentes, a 33-year-old software developer from Chile, passionate about science, technology, and above all, coding. With a wide range of knowledge in tools and technologies, I specialize in solving complex problems and developing innovative solutions.
 
 As an Android developer, I have experience in creating robust and efficient mobile applications. Additionally, I enjoy building systems from scratch, both in game development and in creating dApps in the exciting world of web3.
