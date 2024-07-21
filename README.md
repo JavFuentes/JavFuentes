@@ -6,7 +6,8 @@ Hi, I am Javier Fuentes, a 33-year-old software developer from Chile, passionate
 As an Android developer, I have experience in creating robust and efficient mobile applications. Additionally, I enjoy building systems from scratch, both in game development and in creating dApps in the exciting world of web3.
 
 My goal is to create applications that are not only functional and attractive but also provide a smooth and intuitive user experience. I am committed to quality and strive for excellence in every detail of my projects.
-
+<br>
+<br>
 ## Herramientas y Lenguajes de programación:
 <p align="center"> 
   <a href="https://www.android.com" target="_blank"> <img src="https://user-images.githubusercontent.com/122236197/234497893-4893b87a-295f-41b5-875c-4392376302e9.png" alt="android" width="40" height="40"/> </a>
